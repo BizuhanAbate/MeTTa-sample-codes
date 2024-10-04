@@ -4,7 +4,7 @@
  (Graded as A)
    (if (> $score 80)
      (Graded as B)
-       (if (> $score 70)
+       (if (> $score 70) 
          (Graded as C)
          (Fail)
           ))))
