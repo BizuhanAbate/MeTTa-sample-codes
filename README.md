@@ -1,10 +1,10 @@
-## Metta Functions Repository
+# A Repository for Several Implementations of Metta Functions 
 
 This repository contains several implementations of useful functions written in Metta, 
 a multi-paradigm language for declarative and functional computations over knowledge (meta)graphs. 
 Each file showcases different functionalities, such as summing even numbers, grading systems, categorizing ages, and implementing boolean logic.
 
-# Files
+## Files
 
 1. sum_of_even_numbers_in_metta.metta
    - This metta script calculates the sum of even numbers between two given numbers.
@@ -28,7 +28,7 @@ Each file showcases different functionalities, such as summing even numbers, gra
    - Usage:
      - These functions accept boolean values and return the result of applying the corresponding logical operation and algebra laws.
 
-# How to Run
+## How to Run
 
 To run any of the files in this repository:
 1. Clone the repository:
